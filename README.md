@@ -15,13 +15,13 @@
 
 需要先安装用户脚本管理器，例如 [Tampermonkey](https://www.tampermonkey.net/) 或 [Violentmonkey](https://violentmonkey.github.io/)。
 
-### GitHub
-
-[点击安装脚本](https://raw.githubusercontent.com/cyzg90/v2ex-ignored-nodes/master/v2ex-ignored-nodes.user.js)
-
 ### Greasy Fork
 
-Greasy Fork 发布后补充安装地址。
+[在 Greasy Fork 安装](https://greasyfork.org/zh-CN/scripts/596113-v2ex-%E5%B7%B2%E5%BF%BD%E7%95%A5%E8%8A%82%E7%82%B9%E5%88%97%E8%A1%A8)
+
+### GitHub
+
+[从 GitHub Raw 安装](https://raw.githubusercontent.com/cyzg90/v2ex-ignored-nodes/master/v2ex-ignored-nodes.user.js)
 
 ## 使用
 
